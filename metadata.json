@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Agent Study Planner",
+  "description": "A sophisticated study-planning system powered by multiple AI agents (Topic Analyzer, Resource Curator, Schedule Builder, Quiz Generator) using Groq Llama 3.3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
